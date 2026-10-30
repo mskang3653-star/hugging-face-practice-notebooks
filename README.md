@@ -15,8 +15,6 @@ Hugging Face Transformers 실습 과제(08-1 ~ 08-4)입니다.
 python -m pip install -r requirements.txt
 ```
 
-노트북 첫 번째 셀에서도 필요한 패키지를 설치합니다. Apple Silicon Mac에서는 PyTorch의 `mps` 장치를 사용할 수 있습니다.
 
-## 주의
 
-모델과 데이터셋은 노트북 실행 중 Hugging Face Hub에서 다운로드됩니다. `my-smollm2/`는 08-2에서 저장한 약 1.4GB의 로컬 모델 사본이므로, 이 과제 저장소에는 포함하지 않았습니다.
+
