@@ -1,0 +1,15 @@
+# Local model weights and generated checkpoints
+my-smollm2/
+distilbert-rotten-tomatoes/
+
+# Python and notebook runtime files
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+
+# Local environments and caches
+.venv/
+venv/
+env/
+.cache/
+*.log
